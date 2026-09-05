@@ -1,2 +1,3 @@
 # python-journey
 Python Learning
+Hii Myself Borz who ever finds this repo i am learning Python this repo will have all the things from basics to advance whatever i will learn in python so be stunned ...
